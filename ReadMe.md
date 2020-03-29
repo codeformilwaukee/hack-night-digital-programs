@@ -13,9 +13,12 @@
 Code for Milwaukee aims for its events to be inclusive Safe Spaces and has a zero-tolerance policy for harassment or discrimination. By attending, you agree to Code for America's Code of Conduct, located at
 https://github.com/codeforamerica/codeofconduct
 
-### Solicitation:
-
+#### Campaigning and Solicitation 
 Unless explicitly allowed by Code for Milwaukee, solicitation of attendees is not permitted. This includes but is not limited to recruitment, printed materials, signage, and signature collection. Any violations should be reported and will be dealt with according to the Code of Conduct.
+- No campaigning is allowed at CfM events. We are a non-partisan organization; please do not distribute flyers or other campaign materials.
+- We do not allow most forms of recruiting on the behalf of for-profit organizations at our events, with the possible exceptions in the cases where the event is sponsored by, hosted by, or features a presentation from a for-profit organization. We are a non-profit organization focused on improving Milwaukee's public services via open source technologies, so we ask that no recruiting is done during CfM events.
+- If you have any questions about the above, please contact CfM. If in doubt of whether your actions may not be permissible, please refrain from those actions, or please get pre-approval from the CfM Core Team.
+- If you have concerns about an attendee who you think may be running afoul of these rules, please bring this to the attention of the CfM Core Team members.
 
 ### Photo Release:
 
