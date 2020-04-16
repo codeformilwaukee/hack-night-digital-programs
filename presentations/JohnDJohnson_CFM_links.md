@@ -1,9 +1,3 @@
----
-title: "Code for Milwaukee - April 2020"
-author: "John Johnson"
-date: "4/16/2020"
-output: html_document
----
 
 ## personal links
 
