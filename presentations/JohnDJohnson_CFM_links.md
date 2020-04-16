@@ -19,11 +19,11 @@
     * [interactive toplines web application](https://lubarcenter.shinyapps.io/MLSPBook/)
     * [interactive crosstabs web application](https://lubarcenter.shinyapps.io/MLSPCrosstabs/)
 
-\br
+
 * [Web application to download filtered & geocoded Milwaukee public data](https://milwaukeeneighborhoods.info/getcitydata/)
     * [associated application to define & download custom shapefiles](https://milwaukeeneighborhoods.info/downloadshapefile/)
     
-\br
+
 * [Milwaukee neighborhood crosswalks](https://github.com/jdjohn215/Milwaukee-Geo-Crosswalks)
 
 * [*Journal Sentinel* article on Milwaukee homeownership (paywalled)](https://www.jsonline.com/story/news/solutions/2020/01/30/milwaukee-homeownership-falls-sharply-massive-wealth-transfer/4590413002/) [(unpaywalled pdf)](https://www.dropbox.com/s/2aprvowowvu8we5/GoushaJohnson_MilwaukeeHomeownership.pdf?dl=1)
