@@ -2,6 +2,11 @@
 
 - Please select the date of the hack night you are attending to get the current digital program, or select a past date for a previous hack night's digital program
 
+## Follow me to the digital program
+
+- Here's a link to program for this month's Hack Night
+- Skip down to find the [programs for past events](https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs)
+
 ## Major links
 
 - [Hack Night Orientation Guide](https://docs.google.com/presentation/d/1hwN9_HZ6jsnifv9BGSwOY2iXBW2XKXNKftGBz3Vzx3Y/edit#slide=id.p)
@@ -23,6 +28,19 @@ Unless explicitly allowed by Code for Milwaukee, solicitation of attendees is no
 ### Photo Release:
 
 I understand that Code for Milwaukee would like to document my participation through the use of photographs, video, and other media (collectively, the “Documentation”). Such Documentation may capture images of my participation and my project. This permission for release, without compensation or prior notice, would allow Code for Milwaukee to use such Documentation for educational and marketing purposes. I hereby freely and voluntarily consent to the use and publication of my name, participation, picture, and/or likeness by Code for Milwaukee for this event, including through the distribution, display, transmitting, marketing or publication of such Documentation. Code for Milwaukee may use any medium as technology may now or in the future allow, including, but not limited to, videotape, audiotape, pod casting, web casting, film, photograph, television, digital, internet, theater, or exhibition. I further waive any claims against Code for Milwaukee based upon or related to its use or publication of my likeness, voice, participation, and/or picture. I freely give this authorization without expectation of compensation. If I see a published photograph of my likeness that I would like removed, I can email core-team@codeformilwaukee.org.
+
+
+## All Digital programs
+
+
+- [2020_05 May, featuring TBD](https://github.com/codeformilwaukee/hack-night-digital-programs#Follow-me-to-the-digital-program)
+- [2020_04_16 April](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/2020-04_16.md), featuring John D. Johnson, Marquette University Law Poll
+- [2020_03_19 March](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-03-19.md), featuring Isral DeBruin, City Forward Collective
+- [2020_02_20 February](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-02-20.md) February, featuring Rebecca Nielsen from Sprout City Tech
+- [2020_01_16 January](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-01-16.md) January, featuring Cameron Overton and Rebecca Foley of the Milwaukee County Alternative Drug Courts
+- [2019_12_19 December](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2019-12-19.md), featuring Matt Koster of Caravela and Stack 41 speaking on Smart City Networks
+- [2019_11_21 November](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2019-11-21.md), featuring Mitchell Henke of Rokkincat speaking on improving Milwaukee Bus Transit
+- [2019_10_17 October](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2019-10-17.md), featuring the Sharon Robinson, Director of the City of Milwaukee Office of Administration, and Valeria Cerda, Data/Field Manager for Wisconsin Voices, speaking on the Greater Milwaukee County Complete Count Committee
 
 ## Website
 
