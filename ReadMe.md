@@ -4,7 +4,7 @@
 
 ## Follow me to the digital program
 
-- Here's a link to program for the [May 2020 Hack Night](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md)
+- Here's a link to the [digital program for the May 2020 Hack Night](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md)
 - Skip down to find the [programs for past events](https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs)
 
 ## Major links
