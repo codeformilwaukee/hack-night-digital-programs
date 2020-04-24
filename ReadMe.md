@@ -4,7 +4,7 @@
 
 ## Follow me to the digital program
 
-- Here's a link to program for this month's Hack Night
+- Here's a link to program for the [May 2020 Hack Night](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md)
 - Skip down to find the [programs for past events](https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs)
 
 ## Major links
@@ -33,7 +33,7 @@ I understand that Code for Milwaukee would like to document my participation thr
 ## All Digital programs
 
 
-- [2020_05 May, featuring TBD](https://github.com/codeformilwaukee/hack-night-digital-programs#Follow-me-to-the-digital-program)
+- [2020_05_21 May, featuring TBD](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md)
 - [2020_04_16 April](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/2020-04_16.md), featuring John D. Johnson, Marquette University Law Poll
 - [2020_03_19 March](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-03-19.md), featuring Isral DeBruin, City Forward Collective
 - [2020_02_20 February](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-02-20.md) February, featuring Rebecca Nielsen from Sprout City Tech
