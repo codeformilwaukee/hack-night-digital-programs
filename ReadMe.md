@@ -4,7 +4,7 @@
 
 ## Follow me to the digital program
 
-- Here's a link to the [digital program for the June 2020 Hack Night](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/2020-06-18.md)
+- Follow this for a link to the [digital program for the most recent event](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/link_to_program.md)
 - Skip down to find the [programs for past events](https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs)
 
 ## Major links
@@ -33,7 +33,8 @@ I understand that Code for Milwaukee would like to document my participation thr
 ## All Digital programs
 
 
-- [2020_05_21 May, featuring TBD](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md)
+- [2020_06_18 June](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-06-18.md), featuring AE Shapera, Manager for the Unified Call Center at the City of Milwaukee
+- [2020_05_21 May](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-05-21.md), featuring Abhi Nemani, gov-tech consultant, former CIO of Sacramento, and former CDO of Los Angeles.
 - [2020_04_16 April](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/2020-04_16.md), featuring John D. Johnson, Marquette University Law Poll
 - [2020_03_19 March](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-03-19.md), featuring Isral DeBruin, City Forward Collective
 - [2020_02_20 February](https://github.com/codeformilwaukee/hack-night-digital-programs/blob/master/archived_events/2020-02-20.md) February, featuring Rebecca Nielsen from Sprout City Tech
